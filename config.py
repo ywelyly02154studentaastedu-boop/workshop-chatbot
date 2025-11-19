@@ -1,6 +1,6 @@
 #ali push
 """
-Configuration file for the Chatbot
+Configuration file for the Chatbot..
 
 TODO:
 1. Import os and dotenv to load environment variables
