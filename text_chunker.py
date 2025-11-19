@@ -4,7 +4,7 @@ Text Chunking Module
 This module splits large documents into smaller chunks for better processing
 
 TODO:
-1. Import necessary libraries (if needed)
+1. Import necessary libraries (if needed).
 
 2. Create a function to chunk text:
    - Takes text and chunk_size as parameters
