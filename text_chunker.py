@@ -11,7 +11,7 @@ TODO:
    - Takes chunk_overlap as parameter (how much text overlaps between chunks)
    - Split the text into chunks of approximately chunk_size characters
    - Ensure chunks overlap by chunk_overlap characters
-   - Return a list of text chunks
+   - Return a list of text chunks.
 
 3. Implementation approach:
    - You can split by characters, words, or sentences

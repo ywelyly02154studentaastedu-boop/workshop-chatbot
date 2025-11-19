@@ -10,7 +10,7 @@ TODO:
    - embeddings
    - vector_store
    - rag_engine
-   - config
+   - config.
 
 2. Create the main workflow:
    - Step 1: Load configuration and validate API key
